@@ -1,3 +1,4 @@
 # My-Notes
 
-Swift In depth : https://github.com/tjeerdintveen/manning-swift-in-depth.git
+Swift In depth : https://github.com/tjeerdintveen/manning-swift-in-depth.git , https://github.com/tjeerdintveen/manning-swift-in-depth/tree/master/ch04-optionals/Optionals.playground/Pages
+
